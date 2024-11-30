@@ -13,3 +13,4 @@ A web application to analyze the sentiment of input text and visualize the senti
 - **Matplotlib**: For visualizing sentiment polarity.
 
 ![out1](https://github.com/nandanaprashanth/Text-Sentiment-Analyzer/blob/d46180d08c5a61aca3ad9f61d8f4de9f9fc703df/out1.PNG)
+![out2](https://github.com/nandanaprashanth/Text-Sentiment-Analyzer/blob/d46180d08c5a61aca3ad9f61d8f4de9f9fc703df/out2.PNG)
