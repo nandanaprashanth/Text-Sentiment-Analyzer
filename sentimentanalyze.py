@@ -1,5 +1,4 @@
 import streamlit as st
-from textblob import TextBlob
 import matplotlib.pyplot as plt
 import numpy as np
 
